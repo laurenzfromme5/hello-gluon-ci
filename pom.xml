@@ -14,7 +14,7 @@
         <maven.compiler.release>11</maven.compiler.release>
         <javafx.version>21</javafx.version>
         <charm.version>6.2.3</charm.version>
-        <attach.version>4.0.24-SNAPSHOT</attach.version>
+        <attach.version>4.0.24</attach.version>
         <connect.version>2.0.1</connect.version>
         <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
         <gluonfx.maven.plugin.version>1.0.28</gluonfx.maven.plugin.version>
